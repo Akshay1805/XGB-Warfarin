@@ -113,8 +113,8 @@ To ensure model transparency in clinical use:
 - Extension to other personalized medicine applications.
 
 
-
-
+---
+---
 
 
 ## Mobile application
@@ -130,7 +130,8 @@ To ensure model transparency in clinical use:
    ```bash
     npm run start
    ```
-
+---
+---
 
 
    # 🏥Server (FastAPI + MongoDB)
